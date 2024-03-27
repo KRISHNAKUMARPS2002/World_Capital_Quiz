@@ -34,8 +34,9 @@ Open your web browser and navigate to http://localhost:3000 to play the quiz.
 1. Randomly generates quiz questions from a PostgreSQL database.
 2. Tracks and displays the user's total score.
 3. Provides instant feedback on correct and incorrect answers.
-4. Technologies Used
-5. Express.js
-6. PostgreSQL
-7. HTML/CSS
-8. JavaScript
+
+## Technologies Used
+* Express.js
+* PostgreSQL
+* HTML/CSS
+* JavaScript
