@@ -8,7 +8,7 @@ This is a web application built with Express.js and PostgreSQL for a Capital Cit
 
 1. Clone the repository:
    ```bash
-   # git clone - https://github.com/KRISHNAKUMARPS2002/World_Capital_Quiz.git
+    git clone - https://github.com/KRISHNAKUMARPS2002/World_Capital_Quiz.git
 
 2. Navigate to the project directory:
 bash
