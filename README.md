@@ -8,7 +8,7 @@ This is a web application built with Express.js and PostgreSQL for a Capital Cit
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/capital-city-quiz.git
+   # git clone - https://github.com/KRISHNAKUMARPS2002/World_Capital_Quiz.git
 
 2. Navigate to the project directory:
 bash
@@ -31,11 +31,11 @@ npm start
 Open your web browser and navigate to http://localhost:3000 to play the quiz.
 
 ## Features
-# Randomly generates quiz questions from a PostgreSQL database.
-# Tracks and displays the user's total score.
-# Provides instant feedback on correct and incorrect answers.
-# Technologies Used
-# Express.js
-# PostgreSQL
-# HTML/CSS
-# JavaScript
+1. Randomly generates quiz questions from a PostgreSQL database.
+2. Tracks and displays the user's total score.
+3. Provides instant feedback on correct and incorrect answers.
+4. Technologies Used
+5. Express.js
+6. PostgreSQL
+7. HTML/CSS
+8. JavaScript
